@@ -12,3 +12,4 @@ interface CoinGeckoApi {
         @Query("vs_currencies") vsCurrencies: String = "brl"
     ): Response<CoinGeckoResponse>
 }
+

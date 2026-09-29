@@ -20,3 +20,4 @@ data class HistoricoItem(
     val cotacao: String,
     val timestamp: String
 )
+

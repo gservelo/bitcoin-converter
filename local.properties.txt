@@ -1,0 +1,1 @@
+sdk.dir=C:\\Users\\172313028@ulife.com.br\\AppData\\Local\\Android\\Sdk

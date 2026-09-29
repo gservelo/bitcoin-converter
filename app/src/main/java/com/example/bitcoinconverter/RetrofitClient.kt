@@ -29,3 +29,4 @@ object RetrofitClient {
             .create(CoinGeckoApi::class.java)
     }
 }
+

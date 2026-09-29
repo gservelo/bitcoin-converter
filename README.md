@@ -1,5 +1,10 @@
 # Conversor BTC 🪙
 
+> **Autora:** Giovana Machado Servelo — RA 172317630  
+> **Disciplina:** Usabilidade em Dev Web, Mobile e Jogos  
+> **Exercício:** Conversão de Bitcoin (BRL ↔ BTC)
+
+
 Aplicativo Android para conversão entre **Real Brasileiro (BRL)** e **Bitcoin (BTC)**, desenvolvido em Kotlin com Android Studio.
 
 ## Funcionalidades
@@ -68,3 +73,4 @@ GET https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=brl
 ## Exercício
 
 Projeto desenvolvido para a disciplina **Usabilidade em Dev Web, Mobile e Jogos**.
+
