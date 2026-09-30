@@ -15,10 +15,6 @@ Aplicativo Android para conversão entre **Real Brasileiro (BRL)** e **Bitcoin (
 - 📋 **Histórico** — mantém as últimas 5 conversões realizadas
 - 🎨 **Visual Bitcoin** — tema com a cor laranja oficial do Bitcoin (#F7931A)
 
-## Capturas de Tela
-
-> _Adicione screenshots do emulador ou dispositivo real aqui._
-
 ## Tecnologias
 
 | Tecnologia | Uso |
